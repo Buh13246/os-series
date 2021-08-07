@@ -1,0 +1,1 @@
+#define ARCH "arm"
